@@ -37,7 +37,7 @@ To run the game, follow these steps:
 
 2. **Clone the Repository**:
     ```bash
-    git clone https://github.com/malekamk/pacman-game.git
+    git clone https://github.com/malekamk/classic_pacman.git
     ```
 
 3. **Navigate to the Project Directory**:
